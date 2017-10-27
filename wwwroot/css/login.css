@@ -2,8 +2,8 @@ html,body {
     margin: 0;
     padding: 0;
     height: 100vh;
-    /* background-image: url('../img/background2.jpg');  */
-    /* background-size: cover; */
+    background-image: url('../img/background2.jpg');  
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-color: #f9f9f9;
